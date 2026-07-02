@@ -1,0 +1,9 @@
+{
+  "AUC(test)": 0.51,
+  "CAGR(Net)": 0.0826,
+  "CAGR(Index)": 0.348,
+  "Sharpe(Net)": 1.606,
+  "MaxDD(Net)": -0.0258,
+  "Avg Turnover": 0.871,
+  "Avg Scale": 1.808
+}
